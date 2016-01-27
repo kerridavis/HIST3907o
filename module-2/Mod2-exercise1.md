@@ -52,7 +52,11 @@ I'm trying a second search as well, all the same search terms as above, but for 
 
 I'm curious to see if the warning message from Excel will have any impact on this data.
 
+---
 
+Some observations after uploading spreadsheets to GitHub: the document from the Epigraphic database did not seem to 'translate' well when viewed in Github.  The documents from the War Graves Commission, however, do seem to maintain some of their formatting and are much more legible. 
+
+Not sure why yet.  Maybe that's in an upcoming exercise?
 
 
 
