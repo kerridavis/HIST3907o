@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author/>
+<LastAuthor/>
+<Created/>
+<Company/>
+<Version/>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>10000</WindowHeight>
+<WindowWidth>20000</WindowWidth>
+<WindowTopX>-20</WindowTopX>
+<WindowTopY>-20</WindowTopY>
+<Date1904/>
+<AcceptLabelsInFormulas/>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Top"/>
+<Borders/>
+<Font ss:FontName="Verdana"/>
+<Interior/>
+<NumberFormat/>
+<Protection/>
+</Style>
+<Style ss:ID="s21">
+<Alignment ss:Vertical="Top"/>
+<Font ss:Color="#FFFFFF" ss:FontName="Verdana" ss:Bold="1"/>
+<Interior ss:Color="#000000" ss:Pattern="Solid"/>
+</Style>
+<Style ss:ID="s22">
+<Alignment ss:Vertical="Top"/>
+<Font ss:Color="#000000" ss:FontName="Verdana"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="Collection1">
+<Table x:FullColumns="1" x:FullRows="1">
+
+<Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Column ss:AutoFitWidth="0"/><Row ss:StyleID="s21">
+
+<Cell><Data ss:Type="String">R</Data></Cell><Cell><Data ss:Type="String">P</Data></Cell><Cell><Data ss:Type="String">Collection Time</Data></Cell><Cell><Data ss:Type="String">Source Url</Data></Cell><Cell><Data ss:Type="String">Translation</Data></Cell></Row>
+
+<Row>
+
+<Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">Meaning you will depart. Sophocles [sc. uses the word].</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[Meaning] to the ground, into/towards [the] earth. Also [sc. attested is] χαμᾶζε, [also meaning] to the ground.</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[The words] χλοερός and χλωρός ["pale green"] [are derived] from χολή ["bile"], and from this the [word] ὠχρός ["sallow"] [also comes]. And [sc. also attested is] χλωρότης ["greenness"].</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">A festival of Zeus the Kindly[1] at Athens, it is called 'Diasia' because they escaped [ διαφυγεῖν ] troubles [ ἄσαι ] with their prayers.[2];And Aristophanes [writes]: "when I bought you a little cart at the Diasia."[3]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">A [sign of] divine anger.[1];The thousand Scythians were present, more rapid than any Zeus -omen, whether a flash of light or a hurricane or a thunderbolt or a storm or a meteorite".[2];Aternatively a διοσημία is an unexpected storm. Aristophanes [3][writes]: "it is a divine omen,[4] and a raindrop[5] has struck me!" –- [Herald:] "the Thracians are to withdraw,[6] and return the day after tomorrow,[7] for the prytaneis are dismissing the assembly".[8] In reference to business being postponed. The Athenians were respectful[9] of divine omens and used to break up the assemblies or everything else they were going to accomplish, every time a sign came from the sky.;And Eunapius says about the emperor Carinus: "and all of his outbursts were more violent than a Zeus -omen and he used to have fits of rage in the midst of his subjects".[10]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[A phrase used] in reference to hardships. For during the Peloponnesian War the Athenians dispatched Nikias [1] against everyone[2] and laid siege to them so strenuously as to make them perish by starvation. And in the first year Nikias brought Melos to terms not only by bringing up siege engines but also by starvation, because of their revolt, this had previously been a tribute-paying subject-community.[3] Or standing for "enormous."[4] Melos [is] a city of Thessaly.[5] The Melians, besieged by the Athenians to the point of starvation, were persuaded[6] and surrendered themselves.;Also [sc. attested is] "with Melian starvation",[7] a proverb. Since the Athenians afflicted the Melians by besieging them to the point of starvation. So Thucydides in the fifth [book].[8]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">For some dogs are trackers, others go head-to-head with beasts, some watch the house on guard over possessions, others [are kept] for pleasure, for instance Maltese lap-dogs.[1];Also [sc. attested are] Honey- pie dogs, ones reared for pleasure.[2]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[Meaning] o man. This is how Aristophanes introduces Socrates in Clouds saying, o mortal, o man, o thinker on things which last a day.[1] He says this because he is himself already thinking about divine matters and disdaining human affairs by considering celestial phenomena. Or because Socrates was said to be very like Silenus [ Author, Myth ];[2] for he was both snub-nosed and bald. So [ Aristophanes ] gives him Silenus' phrase in Pindar. For Pindar portraying him conversing with Olympos [ Myth, Place, Place ][3] gave him the following words, "O wretched man, creature of a day, fool, you are talking by boasting to me of money".[4] At the same time too, because Socrates [sc. in Clouds ] already disdains human matters and is himself among the gods,[5] since he was a star-gazer, so [ Aristophanes ] made him talk about that which lives for one day.</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[Meaning] bindings.[1];[sc. The word comes] from ποῦς ["foot"] and δέω ["I bind"], the [verb meaning] I tie together: or from weighing down [ πιέζειν ] the feet [ πόδας ].[2]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[Meaning] being weighed down, being overcome.[1];Also[2] ["is oppressing"] meaning is harming. Aristophanes [writes]: "[the fire] is oppressing Stilbides". Stilbides [was] an excellent and well-respected seer.[3]</Data></Cell></Row><Row><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String"></Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">1/28/2016 9:40:18 PM</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell><Cell ss:StyleID="s22"><Data ss:Type="String">[Meaning] before the [sc. appropriate] time.[1]</Data></Cell></Row></Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Print>
+<ValidPrinterInfo/>
+<HorizontalResolution>-4</HorizontalResolution>
+<VerticalResolution>-4</VerticalResolution>
+</Print>
+<PageLayoutZoom>0</PageLayoutZoom>
+<Selected/>
+<FreezePanes/>
+<SplitHorizontal>1</SplitHorizontal>
+<TopRowBottomPane>1</TopRowBottomPane>
+<ActivePane>2</ActivePane>
+<Panes>
+<Pane>
+<Number>3</Number>
+</Pane>
+<Pane>
+<Number>2</Number>
+<ActiveCol>0</ActiveCol>
+</Pane>
+</Panes>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
